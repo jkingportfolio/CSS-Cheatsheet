@@ -1,4 +1,4 @@
-# CSS Cheatsheet
+# CSS Cheatsheet [![My Skills](https://skillicons.dev/icons?i=css&theme=dark)](https://skillicons.dev)
 
 Welcome to the CSS Cheatsheet repository! This repository is a comprehensive reference guide for CSS (Cascading Style Sheets), covering a wide range of CSS properties, selectors, and techniques. Whether you're a beginner learning CSS or an experienced developer seeking a quick reference, this cheatsheet has you covered.
 
