@@ -11,10 +11,6 @@ If you have any suggestions or would like to contribute to this cheatsheet, plea
 Happy styling!
 
 
-# CSS Cheatsheet Repository
-
-Welcome to the CSS Cheatsheet repository! This repository serves as a comprehensive guide for CSS properties, selectors, and techniques. Use this cheatsheet as a quick reference while working on your CSS projects.
-
 ## Table of Contents
 
 1. [Introduction](#introduction)
