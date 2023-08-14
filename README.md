@@ -24,7 +24,8 @@ Happy styling!
 9. [Transitions and Animations](#transitions-and-animations)
 10. [Media Queries](#media-queries)
 11. [Miscellaneous](#miscellaneous)
-12. [Resources](#resources)
+12. [Images](#images)
+13. [Resources](#resources)
 
 ## Introduction
 
@@ -747,11 +748,49 @@ a:hover {
 These miscellaneous CSS techniques offer additional flexibility and customization options for your web pages. Experiment with these properties and techniques to enhance the visual presentation and user experience of your designs.
 
 
+## Images
 
+To make images responsive in CSS and ensure they adjust well to different screen sizes, you can use media queries. Here's a snippet to achieve responsive images for common device screen sizes:
 
+```css
+/* For screens smaller than 576px (extra small devices) */
+img {
+  max-width: 100%;
+  height: auto;
+}
 
+/* For screens 576px and larger (small devices) */
+@media (min-width: 576px) {
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+}
 
+/* For screens 768px and larger (medium devices) */
+@media (min-width: 768px) {
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+}
 
+/* For screens 992px and larger (large devices) */
+@media (min-width: 992px) {
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+}
+
+/* For screens 1200px and larger (extra large devices) */
+@media (min-width: 1200px) {
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+}
+```
 
 ## Resources
 
